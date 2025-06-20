@@ -9,8 +9,8 @@ A simple and secure Password Manager GUI application built with Python and Tkint
 - Error handling for missing files and empty fields
 - Clean, user-friendly layout with proper alignment
 
-This project helped me understand:
-- Tkinter widgets (Entry, Label, Button, Frame, Canvas, etc.)
+📌This project helped me understand:
+- Tkinter widgets (`Entry`, `Label`, `Button`, `Frame`, `Canvas`, etc.)
 - Layout management using grid() and pack() together
 - Python’s built-in json module for persistent data storage
 - Random password generation using random, choice, shuffle
@@ -20,4 +20,5 @@ This project helped me understand:
 ![image](https://github.com/user-attachments/assets/9d0c9c24-72c2-496b-a22d-b9c23f2e456b)
 
 ![image](https://github.com/user-attachments/assets/464619ef-728f-4586-a195-6e541735b7ca)
+
 This is a JSON (JavaScript Object Notation) file automatically generated and updated by your password manager app. It stores login credentials (website, email, password) that the user adds through the GUI.
