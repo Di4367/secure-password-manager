@@ -17,4 +17,7 @@ This project helped me understand:
 - Input validation and basic file error handling
 
 📷Screenshots
-![image](https://github.com/user-attachments/assets/2876f3b4-ab78-4e90-9906-3a87d32c99cd)
+![image](https://github.com/user-attachments/assets/9d0c9c24-72c2-496b-a22d-b9c23f2e456b)
+
+![image](https://github.com/user-attachments/assets/464619ef-728f-4586-a195-6e541735b7ca)
+This is a JSON (JavaScript Object Notation) file automatically generated and updated by your password manager app. It stores login credentials (website, email, password) that the user adds through the GUI.
