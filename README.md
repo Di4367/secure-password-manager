@@ -17,7 +17,9 @@ A simple and secure Password Manager GUI application built with Python and Tkint
 - Input validation and basic file error handling
 
 📷Screenshots
+
 ![image](https://github.com/user-attachments/assets/9d0c9c24-72c2-496b-a22d-b9c23f2e456b)
+This is the main interface of the Password Manager application where users can securely store, search, and generate passwords for different websites.
 
 ![image](https://github.com/user-attachments/assets/464619ef-728f-4586-a195-6e541735b7ca)
 
